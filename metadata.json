@@ -1,0 +1,6 @@
+{
+  "name": "Morning Hero Arcade",
+  "description": "晨間英雄：任務養成鬧鐘 Web App。結合鬧鐘響鈴與晨間小遊戲解鎖任務（快速連擊、心算解題、色彩記憶），賺取英雄經驗值告別賴床！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
